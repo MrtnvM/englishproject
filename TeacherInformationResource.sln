@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherInformationResource", "TeacherInformationResource\TeacherInformationResource.csproj", "{A0331244-50BE-4E20-BE91-C2B3A56FCAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherInformationResource.Tests", "TeacherInformationResource.Tests\TeacherInformationResource.Tests.csproj", "{59ADF726-D11F-457E-B4FA-935DED8F1CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0331244-50BE-4E20-BE91-C2B3A56FCAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0331244-50BE-4E20-BE91-C2B3A56FCAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0331244-50BE-4E20-BE91-C2B3A56FCAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0331244-50BE-4E20-BE91-C2B3A56FCAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ADF726-D11F-457E-B4FA-935DED8F1CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ADF726-D11F-457E-B4FA-935DED8F1CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ADF726-D11F-457E-B4FA-935DED8F1CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ADF726-D11F-457E-B4FA-935DED8F1CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

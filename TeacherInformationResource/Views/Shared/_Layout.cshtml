@@ -23,7 +23,7 @@
                         <li>@Html.ActionLink("Обо мне", "AboutMe", "Home")</li>
                         <li>@Html.ActionLink("Студентам", "Students", "Student")</li>
                         <li>@Html.ActionLink("Коллегам", "Colleagues", "Colleague")</li>
-                        <li>@Html.ActionLink("Контакты", "Contacts", "Home")</li>
+                        <li>@Html.ActionLink("Контакты", "Contact", "Home")</li>
                     </ul>
                 </nav>
             </div>
@@ -40,5 +40,6 @@
         </article>
     </footer>
     @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
 </body>
 </html>
